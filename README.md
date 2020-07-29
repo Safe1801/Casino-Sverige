@@ -1,4 +1,4 @@
-# Sverige Casino
+# Sverige Casino SWEDISH LANG.
 
 ## Programmering och systemering
 
